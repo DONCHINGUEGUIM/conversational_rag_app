@@ -1,0 +1,7 @@
+[theme]
+base = "dark"
+primaryColor = "#10A37F"            # ChatGPT Green
+backgroundColor = "#0E1117"         # Dark background
+secondaryBackgroundColor = "#1E222A" # Dark gray sidebar & cards
+textColor = "#FFFFFF"
+font = "sans serif"
